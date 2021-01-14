@@ -1,0 +1,6 @@
+Package: com.magicz.gmailnoads
+Name: Gmail No Ads
+Depends: mobilesubstrate, preferenceloader, com.magicz.libhdev (>= 4.5.0), firmware (>= 10)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Free & Open Source Tweak for Gmail
